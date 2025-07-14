@@ -207,7 +207,7 @@ local function createDiscordPopup()
             animateIn()
             
             joinButton.MouseButton1Click:Connect(function()
-                local discordUrl = "https://discord.gg/bluescreen"
+                local discordUrl = "https://discord.gg/PJSKe4MKWU"
                 
                 if setclipboard then
                     setclipboard(discordUrl)
