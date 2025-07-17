@@ -1,6 +1,5 @@
 
 {
-    "17574618959": "print('Dummy Script')",
     "17736639505": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Its3rr0rsWRLD/BlueScreen/refs/heads/main/Scripts/Marble%20Tycoon.lua'))()",
     "126244816328678": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Its3rr0rsWRLD/BlueScreen/refs/heads/main/Scripts/Bluescreen.Dig.obfuscated.lua'))()"
 }
